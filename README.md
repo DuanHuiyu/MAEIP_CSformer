@@ -1,5 +1,5 @@
 # Masked Autoencoders as Image Processors
-[![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)]()
+[![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](http://arxiv.org/abs/2303.17316)
 
 The code and pre-trained models of the paper "Masked Autoencoders as Image Processors" will be released in this repository.
 
